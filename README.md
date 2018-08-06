@@ -4,7 +4,6 @@ An illustration program which visualizes CNN filters inside AlphaZero and its MC
 
 ## Screenshots
 
-![1.jpg](https://raw.githubusercontent.com/yzhq97/AlphaGomokuZero/master/screenshots/1.jpg)
 ![2.jpg](https://raw.githubusercontent.com/yzhq97/AlphaGomokuZero/master/screenshots/2.jpg)
 ![3.jpg](https://raw.githubusercontent.com/yzhq97/AlphaGomokuZero/master/screenshots/3.jpg)
 
